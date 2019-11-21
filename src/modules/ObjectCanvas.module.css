@@ -1,0 +1,10 @@
+.canvas {
+    height: 100vh;
+    background-color: rgb(255, 204, 204);
+}
+
+.menu {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
