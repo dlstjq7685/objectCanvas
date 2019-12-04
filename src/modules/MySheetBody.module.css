@@ -1,0 +1,11 @@
+.sheetContainer {
+    border-width: 1px;
+    border-style:solid;
+    text-align: left;
+}
+
+.sheetBodyCountainer {
+    height: 100px;
+    overflow-y: scroll;
+}
+

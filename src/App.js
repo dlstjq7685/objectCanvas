@@ -23,6 +23,8 @@ import Test5 from './pages/test5'
 import Navi from './components/navigator'
 
 import Can from './modules/ObjectCanvas'
+import Sheet from './components/MySheet'
+
 
 class App extends Component {
 
@@ -72,7 +74,7 @@ class App extends Component {
           </CSSTransition>
           </TransitionGroup>
 
-          <Can/>
+          <Sheet/>
 
         </div>
       );

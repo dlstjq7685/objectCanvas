@@ -1,0 +1,8 @@
+.itemContainer {
+    display: inline-flex;
+    padding-left: 1px;
+    padding-right: 1em;
+}
+
+.item {
+}
